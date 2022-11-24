@@ -15,5 +15,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://vk.com/id208717752)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Ryboss971)
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id208717752)
