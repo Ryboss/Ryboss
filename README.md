@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryboss&show_icons=true&theme=tokyonight)](https://github.com/Ryboss/github-readme-stats)
 ### Link to my CV on hh
-![CV](https://github.com/Ryboss/Ryboss/blob/main/assets/cv.pdf)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV)](https://github.com/Ryboss/Ryboss/blob/main/assets/cv.pdf)
 ### Languages and Tools
 ![FastApi](https://img.shields.io/badge/-fastapi-090909?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django)
